@@ -607,7 +607,7 @@ body{
         /* flex: auto; */
         flex: none;
         width: auto;
-        min-width: 120px;
+        min-width: 100px;
         
         margin-bottom: 40px;
     }
